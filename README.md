@@ -37,4 +37,9 @@ AI Directories
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 
+Tools
+------
+
+- [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
+
 
