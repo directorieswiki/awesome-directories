@@ -31,6 +31,7 @@ AI Directories
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
+- [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
