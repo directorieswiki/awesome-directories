@@ -42,4 +42,9 @@ Tools
 
 - [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
 
+Local Directories
+------
+
+- [fyiCanada](https://fyicanada.ca/) - Discover a curated selection of Canadian-made products, companies, and brands.
+
 
