@@ -41,5 +41,6 @@ Tools
 ------
 
 - [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
+- [WTCraft.com Directory](https://wtcraft.com) - WTCraft.com is a curated directory focused on tech tools, developer resources, and SaaS alternatives.
 
 
