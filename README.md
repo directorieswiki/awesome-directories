@@ -36,6 +36,7 @@ AI Directories
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
 Tools
 ------
