@@ -20,6 +20,7 @@ AI Directories
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
+- [Best AI Tools](https://best-ai-tools.org) - Find OpenSource & GDPR compliant AI Tools + free Academy 
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
