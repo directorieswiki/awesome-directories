@@ -23,6 +23,7 @@ AI Directories
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
+- [300 AI Directories](https://300aidirectories.com/) - Submit your AI tool to 300+ curated directories to get backlinks, traffic, and SEO boosts.
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
