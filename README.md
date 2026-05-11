@@ -31,6 +31,7 @@ AI Directories
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
+- [The Agentic Index](https://theagenticindex.com) - AI tools directory organized by 17 skilled trades (plumbing, HVAC, electrical, roofing, etc.). Free, ad-free, affiliate-supported.
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
