@@ -20,6 +20,7 @@ AI Directories
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
+- [ProductDirs](https://productdirs.com/) - AI tools and tech product discovery directory with daily launches and curated reviews
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
@@ -36,10 +37,10 @@ AI Directories
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [ThisTools](https://thistools.app/) - Tech product discovery platform for daily launches, upvotes, and curated tools
 
 Tools
 ------
 
 - [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
-
 
