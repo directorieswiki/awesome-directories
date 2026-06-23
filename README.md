@@ -11,6 +11,7 @@ AI Directories
 
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
+- [AIPower.spot](https://aipower.spot/) - This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
