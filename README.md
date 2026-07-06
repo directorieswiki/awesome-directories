@@ -7,6 +7,8 @@ A curated list of awesome directories in various fields. Feel free to add yours.
 - [Artificial Intelligence](#ai-directories)
 
 AI Directories
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ---------------
 
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
