@@ -37,6 +37,8 @@ AI Directories
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 Tools
 ------
 
