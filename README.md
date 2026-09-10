@@ -36,6 +36,7 @@ AI Directories
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [VibeHacker](https://vibehacker.com/) - Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches
 
 Tools
 ------
