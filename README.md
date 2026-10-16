@@ -29,6 +29,7 @@ AI Directories
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
 - [OpenFuture AI](https://openfuture.ai/) - Largest Tools Directory, Fastest Update, The Most Accurate Database
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
+- [Public Prompts](https://www.publicprompts.art/) - AI tools directory with paid, editorially reviewed owner submissions (US$19.99 once plus tax).
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
