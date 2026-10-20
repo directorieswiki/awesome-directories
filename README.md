@@ -5,6 +5,7 @@ A curated list of awesome directories in various fields. Feel free to add yours.
 
 
 - [Artificial Intelligence](#ai-directories)
+- [Energy / Solar](#energy--solar)
 
 AI Directories
 ---------------
@@ -42,4 +43,9 @@ Tools
 
 - [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
 
+
+Energy / Solar
+--------------
+
+- [SolarXlist](https://solarxlist.org/) - Global Solar & Energy Storage Company Directory
 
