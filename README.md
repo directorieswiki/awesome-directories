@@ -36,6 +36,7 @@ AI Directories
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers organized by the job you need done.
 
 Tools
 ------
