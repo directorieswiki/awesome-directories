@@ -42,4 +42,7 @@ Tools
 
 - [Productivity Directory](https://productivity.directory) - List of top Productivity tools, books, podcasts and products
 
+Live Music & Events
+-------------------
 
+- [No Stairs Please](https://nostairsplease.com/) - Searchable directory of 3,100+ U.S. and Canadian live-music venues with room capacities, touring routes, and talent buyer contacts.
